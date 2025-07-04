@@ -1,0 +1,7 @@
+doculens-ai/
+│
+├── app.py                    # Main Streamlit app
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project overview and instructions
+└── sample_docs/
+    └── nda_sample.pdf        # Sample contract or NDA for testing
